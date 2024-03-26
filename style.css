@@ -1,0 +1,38 @@
+
+ h1{
+    color:red;
+ }
+
+ section{
+   display: flex;
+ }
+
+ .container1{
+   background-color: darkorange;
+   padding: 5px;
+   margin-top: 3px;
+   margin-left: 3px;
+   margin-bottom: 3px;
+   align-items: center;
+   max-width: 400px;
+   
+ }
+ .hello{
+  padding: 3px;
+  margin: 5px;
+
+ }
+ input{
+ 
+  padding: 10px;
+  align-items: center;
+ }
+ label{
+  padding: 10px;
+  align-items: center;
+  
+ }
+ hello{
+  background-color: green;
+ }
+ 
