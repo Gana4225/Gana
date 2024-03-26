@@ -9,32 +9,23 @@
 
  .container1{
    background-color: darkorange;
-   padding: 5px;
+   padding: 100px;
    margin-top: 3px;
    margin-left: 3px;
    margin-bottom: 3px;
-   align-items: center;
-   max-width: 400px;
+   width: 250px;
+   max-width: 500px;
    
  }
- .hello{
-  padding: 3px;
-  margin: 5px;
-
+ label{
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  text-align: center;
  }
  input{
+  padding: 8px;
+  padding-left: 20px;
+  margin-bottom: 8px;
+ }
  
-  padding: 10px;
-  align-items: center;
-  max-width: 100px;
- }
- label{
-  padding: 10px;
-  align-items: center;
-  max-width: 70px;
-  
- }
- hello{
-  background-color: green;
- }
  
